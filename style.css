@@ -9,7 +9,7 @@
         background-size: cover;        
         background-repeat: no-repeat;  
         background-position: center;
-        height: 346px;
+        height: 100vh;
     }   
     form{
         max-width: 300px;
@@ -66,4 +66,5 @@
         margin-left: 190px;
         font-size: 1.5rem;
     }
+
 }
